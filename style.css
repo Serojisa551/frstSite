@@ -582,7 +582,3 @@ main h2 {
     text-decoration-skip-ink: none;
     padding-bottom: 5.5%;
 }
-
-@media (min-width: 1440px) {
-    mwidth: 538px;
-}
